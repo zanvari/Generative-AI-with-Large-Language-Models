@@ -48,4 +48,4 @@ Reinforcement learning and LLM-powered applications
 
 [Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_3/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
-[Week 3 Quiz](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_3/Week_3_Quiz.md)
+[Week 3 Quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_3/Week_3_Quiz.md)
