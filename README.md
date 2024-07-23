@@ -19,7 +19,7 @@ Generative AI use cases, project lifecycle, and model pre-training
 - Address the computational challenges encountered during model pre-training and identify methods to efficiently minimize memory usage.
 - Define scaling laws and explain the laws related to LLMs concerning training dataset size, compute budget, inference requirements, and other factors.
 
-[Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_1/Lab_1_summarize_dialogue.ipynb)
+[Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_1/Lab_1_summarize_dialogue.ipynb)
 
 [Week 1 quiz](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_1/Week_1_Quiz.md)
 
