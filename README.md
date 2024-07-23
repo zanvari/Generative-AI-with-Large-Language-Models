@@ -9,10 +9,7 @@ By taking this course, you'll learn to:
 - Explore the challenges and opportunities of generative AI in business through insights from industry researchers and practitioners.
 
 
-## Week 1
-Generative AI use cases, project lifecycle, and model pre-training.
-
-### Learning Objectives
+## Week 1 Learning Objectives
 - Explore model pre-training and evaluate the benefits of ongoing pre-training compared to fine-tuning.
 - Clarify the terms Generative AI, large language models, and prompt, and explain the transformer architecture that drives LLMs.
 - Detail the stages of a generative AI model lifecycle using LLMs and examine the constraints that influence decisions at each stage.
@@ -23,10 +20,7 @@ Generative AI use cases, project lifecycle, and model pre-training.
 
 [Week 1 quiz](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_1/Week_1_Quiz.md)
 
-## Week 2
-Fine-tuning and evaluating large language models.
-
-### Learning Objectives
+## Week 2 Learning Objectives
 - Explain how fine-tuning with instruction-based prompt datasets can enhance performance on multiple tasks.
 - Define catastrophic forgetting and discuss strategies to mitigate it.
 - Define Parameter-efficient Fine Tuning (PEFT).
@@ -37,10 +31,7 @@ Fine-tuning and evaluating large language models.
 
 [Week 2 quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_2/Week_2_Quiz.md)
 
-## Week 3
-Reinforcement learning and LLM-powered applications.
-
-### Learning Objectives
+## Week 3 Learning Objectives
 - Explain how RLHF leverages human feedback to enhance the performance and alignment of large language models.
 - Detail how data collected from human labelers is utilized to train a reward model for RLHF.
 - Define chain-of-thought prompting and describe its role in enhancing LLMs' reasoning and planning capabilities.
