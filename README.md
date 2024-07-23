@@ -18,12 +18,12 @@ By taking this course, you'll learn to:
 - Address the computational challenges encountered during model pre-training and identify methods to efficiently minimize memory usage.
 - Define scaling laws and explain the laws related to LLMs concerning training dataset size, compute budget, inference requirements, and other factors.
 
-#### Lab:
+### Lab:
 In this lab, you will do the dialogue summarization task using generative AI. You will explore how the input text affects the output of the model, and perform prompt engineering to direct it towards the task you need. By comparing zero shot, one shot, and few shot inferences, you will take the first step towards prompt engineering and see how it can enhance the generative output of Large Language Models.  
 
 [Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_1/Lab_1_summarize_dialogue.ipynb)
 
-#### Quiz:
+### Quiz:
 [Week 1 quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_1/Week_1_Quiz.md)
 
 ## Week 2
