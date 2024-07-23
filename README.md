@@ -40,6 +40,7 @@ In this lab, you will fine-tune an existing LLM from Hugging Face for enhanced d
 
 [Lab 2 - Fine-tune a generative AI model for dialogue summarization](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_2/Lab_2_fine_tune_generative_ai_model.ipynb)
 
+### Quiz:
 [Week 2 quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_2/Week_2_Quiz.md)
 
 ## Week 3
@@ -55,4 +56,5 @@ In this lab, you will fine-tune a FLAN-T5 model to generate less toxic content b
 
 [Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_3/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
+### Quiz:
 [Week 3 Quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_3/Week_3_Quiz.md)
