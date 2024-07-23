@@ -10,7 +10,7 @@ By taking this course, you'll learn to:
 
 
 ## Week 1
-Generative AI use cases, project lifecycle, and model pre-training
+Generative AI use cases, project lifecycle, and model pre-training.
 
 ### Learning Objectives
 - Explore model pre-training and evaluate the benefits of ongoing pre-training compared to fine-tuning.
@@ -24,7 +24,7 @@ Generative AI use cases, project lifecycle, and model pre-training
 [Week 1 quiz](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_1/Week_1_Quiz.md)
 
 ## Week 2
-Fine-tuning and evaluating large language models
+Fine-tuning and evaluating large language models.
 
 ### Learning Objectives
 - Explain how fine-tuning with instruction-based prompt datasets can enhance performance on multiple tasks.
@@ -38,7 +38,7 @@ Fine-tuning and evaluating large language models
 [Week 2 quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_2/Week_2_Quiz.md)
 
 ## Week 3
-Reinforcement learning and LLM-powered applications
+Reinforcement learning and LLM-powered applications.
 
 ### Learning Objectives
 - Explain how RLHF leverages human feedback to enhance the performance and alignment of large language models.
