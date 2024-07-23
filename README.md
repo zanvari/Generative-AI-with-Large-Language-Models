@@ -24,7 +24,7 @@ In this lab, you will do the dialogue summarization task using generative AI. Yo
 [Lab 1 - Generative AI Use Case: Summarize Dialogue](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_1/Lab_1_summarize_dialogue.ipynb)
 
 ### Quiz:
-[Week 1 quiz](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_1/Week_1_Quiz.md)
+[Week 1 quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_1/Week_1_Quiz.md)
 
 ## Week 2
 
@@ -54,7 +54,7 @@ In this lab, you will fine-tune an existing LLM from Hugging Face for enhanced d
 ### Lab:
 In this lab, you will fine-tune a FLAN-T5 model to generate less toxic content by Facebook's hate speech reward model. The reward model is a binary classifier that predicts either "not hate" or "hate" for the given text. You will use Proximal Policy Optimization (PPO) to fine-tune and detoxify the model.  
 
-[Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_3/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
+[Lab 3 - Fine-tune FLAN-T5 with reinforcement learning to generate more-positive summaries](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_3/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb)
 
 ### Quiz:
 [Week 3 Quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_3/Week_3_Quiz.md)
