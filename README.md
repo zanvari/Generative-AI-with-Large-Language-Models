@@ -33,9 +33,9 @@ Fine-tuning and evaluating large language models
 - Describe how PEFT reduces computational costs and addresses catastrophic forgetting.
 - Discuss how instruction-based prompt dataset fine-tuning can improve LLM performance on various tasks.
 
-[Lab 2 - Fine-tune a generative AI model for dialogue summarization](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_2/Lab_2_fine_tune_generative_ai_model.ipynb)
+[Lab 2 - Fine-tune a generative AI model for dialogue summarization](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_2/Lab_2_fine_tune_generative_ai_model.ipynb)
 
-[Week 2 quiz](https://github.com/zanvari/Generative-AI with-Large-Language-Models/blob/main/Week_2/Week_2_Quiz.md)
+[Week 2 quiz](https://github.com/zanvari/Generative-AI-with-Large-Language-Models/blob/main/Week_2/Week_2_Quiz.md)
 
 ## Week 3
 Reinforcement learning and LLM-powered applications
